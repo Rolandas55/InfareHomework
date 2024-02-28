@@ -1,0 +1,7 @@
+Price,Taxes,outbound 1 airport departure,outbound 1 airport arrival,outbound 1 time departure,outbound 1 time arrival,outbound 1 flight number,outbound 2 airport departure,outbound 2 airport arrival,outbound 2 time departure,outbound 2 time arrival,outbound 2 flight number,inbound 1 airport departure,inbound 1 airport arrival,inbound 1 time departure,inbound 1 time arrival,inbound 1 flight number,inbound 2 airport departure,inbound 2 airport arrival,inbound 2 time departure,inbound 2 time arrival,inbound 2 flight number
+684.13,325.13,MAD,AUH,2024/03/06 14:00,2024/03/06 23:40,UX2703,,,,,,AUH,MAD,2024/03/10 07:30,2024/03/10 12:30,UX2702
+832.84,28.839999999999996,MAD,TFN,2024/03/08 11:40,2024/03/08 13:35,UX9118,TFN,FUE,2024/03/08 15:20,2024/03/08 16:10,UX2139,FUE,LPA,2024/03/12 08:10,2024/03/12 08:50,UX2120,LPA,MAD,2024/03/12 10:00,2024/03/12 13:45,UX9161
+320.38,70.38,CPH,AMS,2024/03/09 14:10,2024/03/09 15:35,UX3757,AMS,MAD,2024/03/09 19:10,2024/03/09 21:50,UX1094,MAD,AMS,2024/03/13 07:05,2024/03/13 09:45,UX1091,AMS,CPH,2024/03/13 16:50,2024/03/13 18:10,UX3771
+684.13,325.13,MAD,AUH,2024/03/10 10:10,2024/03/10 19:25,UX2703,,,,,,AUH,MAD,2024/03/14 02:35,2024/03/14 08:30,UX2702
+701.13,325.13,MAD,AUH,2024/03/11 14:00,2024/03/11 23:40,UX2703,,,,,,AUH,MAD,2024/03/15 07:30,2024/03/15 12:30,UX2702
+701.13,325.13,MAD,AUH,2024/03/13 14:00,2024/03/13 23:40,UX2703,,,,,,AUH,MAD,2024/03/17 07:30,2024/03/17 12:30,UX2702

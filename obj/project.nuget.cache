@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEXWPUfJTgmXJ4UcdZWItvJV8svR8jWMotIWP7Ar5KJ4NTE7CJmlshTr7zKNC54B4bGDq29yr63+A51rpie0QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krauj\\OneDrive\\Documents\\VSCode\\InfareHomework\\InfareHomework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krauj\\.nuget\\packages\\csvhelper\\31.0.0\\csvhelper.31.0.0.nupkg.sha512",
+    "C:\\Users\\krauj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\krauj\\.nuget\\packages\\system.linq.async\\4.0.0\\system.linq.async.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
