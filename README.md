@@ -1,0 +1,1 @@
+Data folder has three files. Alltrips.csv and CheapestTrips.csv are for storing results and they can be deleted. Searches.csv is an input file, it stores search parameter sets, and program will not work without this file.
